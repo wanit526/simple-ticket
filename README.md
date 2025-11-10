@@ -102,14 +102,9 @@ flowchart TD
 ## 🖼️ Screenshots
 | Ticket Form | Dashboard |
 |--------------|------------|
-| ![Form](docs/screenshots/form.png) | ![Dashboard](docs/screenshots/dashboard.png) |
-
-> 📸 Place your screenshots inside `docs/screenshots/`  
-> Example filenames:  
-> - `form.png` → Ticket submission form  
-> - `dashboard.png` → Support dashboard  
-
----
+| ![Form](<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/190fd36f-9915-4f8e-bfe0-5ecec059105a" />
+) | ![Dashboard](<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/3ee65fa9-1c4f-4c06-98f7-220484bde68a" />
+) |
 
 ## 🌍 Live Demo
 > *(Optional — uncomment when deployed)*  
@@ -119,10 +114,10 @@ flowchart TD
 
 ## 📜 License
 MIT License © 2025  
-Developed by [**Vanit Chaowieng**](https://github.com/confusez)
+Developed by [**Wanich Chawweing**](https://github.com/wanit526)
 
-📧 **Email:** vanit.rmutt@example.com  
-🌐 **Portfolio:** [https://github.com/confusez](https://github.com/confusez)
+📧 **Email:** wanich.chawweing@gmail.com 
+🌐 **Portfolio:** [https://github.com/confusez](https://github.com/wanit526)
 
 ---
 
@@ -136,20 +131,3 @@ Developed by [**Vanit Chaowieng**](https://github.com/confusez)
 | Live Demo link | Your deployed site | e.g., https://rmutt-ticket.vercel.app |
 
 ---
-
-## 💬 Bonus Tips for GitHub
-- Add a GIF demo (record short screen capture, name it `demo.gif`)  
-  ```md
-  ![Demo](docs/screenshots/demo.gif)
-  ```
-- Use GitHub repository topics:  
-  ```
-  nextjs supabase tailwindcss ticketing-system it-support vercel
-  ```
-- Add a pinned repository description like:  
-  > 🧾 IT Ticketing System built with Next.js & Supabase | CRUD | Dashboard | Auth | RLS
-
----
-
-🎉 Done!  
-This README is ready to upload to GitHub for your **portfolio showcase**.
