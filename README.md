@@ -116,6 +116,6 @@ MIT License © 2025
 Developed by [**Wanich Chawweing**](https://github.com/wanit526)
 
 📧 **Email:** wanich.chawweing@gmail.com 
-🌐 **Portfolio:** [https://github.com/confusez](https://github.com/wanit526)
+🌐 **Portfolio:** [https://github.com/wanit526](https://github.com/wanit526)
 
 ---
