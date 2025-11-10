@@ -1,3 +1,6 @@
-# Environment files
+echo "node_modules
+.next
 .env
 .env.local
+out
+.DS_Store
