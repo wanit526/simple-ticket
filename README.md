@@ -1,4 +1,4 @@
-# 🧾 RMUTT Simple Ticket System (IT Support Ticketing)
+# 🧾Simple Ticket System (IT Support Ticketing)
 
 A simple IT issue reporting system built with **Next.js + Supabase + Tailwind CSS**.  
 Users can submit IT support tickets, attach files, and track their progress in real-time through a clean dashboard.
