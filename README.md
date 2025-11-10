@@ -100,11 +100,10 @@ flowchart TD
 ---
 
 ## 🖼️ Screenshots
-| Ticket Form | Dashboard |
-|--------------|------------|
-| ![Form](<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/190fd36f-9915-4f8e-bfe0-5ecec059105a" />
-) | ![Dashboard](<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/3ee65fa9-1c4f-4c06-98f7-220484bde68a" />
-) |
+
+| 🧾 Ticket Form | 📊 Dashboard |
+|----------------|--------------|
+| ![Ticket Form Screenshot](https://github.com/user-attachments/assets/190fd36f-9915-4f8e-bfe0-5ecec059105a) | ![Dashboard Screenshot](https://github.com/user-attachments/assets/3ee65fa9-1c4f-4c06-98f7-220484bde68a) |
 
 ## 🌍 Live Demo
 > *(Optional — uncomment when deployed)*  
@@ -118,16 +117,5 @@ Developed by [**Wanich Chawweing**](https://github.com/wanit526)
 
 📧 **Email:** wanich.chawweing@gmail.com 
 🌐 **Portfolio:** [https://github.com/confusez](https://github.com/wanit526)
-
----
-
-## ✅ What You Need to Add
-| Section | What to Replace | Example |
-|----------|----------------|----------|
-| `your_anon_key_here` | Your actual Supabase anon key | From Supabase → Project Settings → API |
-| `your_service_role_key_here` | Your Service Role Key | Same page, keep private |
-| `form.png / dashboard.png` | Screenshots | Add actual screenshots from your project |
-| `vanit.rmutt@example.com` | Your real contact email | e.g., vanitc123@gmail.com |
-| Live Demo link | Your deployed site | e.g., https://rmutt-ticket.vercel.app |
 
 ---
